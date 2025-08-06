@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/christin-johny/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
