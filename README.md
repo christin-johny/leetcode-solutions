@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
