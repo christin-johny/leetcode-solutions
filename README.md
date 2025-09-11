@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -49,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
