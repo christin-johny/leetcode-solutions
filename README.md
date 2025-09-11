@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
