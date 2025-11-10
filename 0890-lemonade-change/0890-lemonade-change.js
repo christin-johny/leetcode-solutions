@@ -7,17 +7,17 @@ var lemonadeChange = function(bills) {
 
     for (let bill of bills) {
         if (bill === 5) {
-            five++; // collect a $5
+            five++; 
         } else if (bill === 10) {
-            if (five === 0) return false; // must give $5 as change
+            if (five === 0) return false; 
             five--;
             ten++;
-        } else { // bill === 20
+        } else { 
             if (ten > 0 && five > 0) {
-                ten--;  // give $10
-                five--; // give $5
+                ten--;  
+                five--;
             } else if (five >= 3) {
-                five -= 3; // give 3x $5
+                five -= 3;
             } else {
                 return false;
             }
