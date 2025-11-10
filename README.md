@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-lemonade-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
