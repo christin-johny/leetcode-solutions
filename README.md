@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
