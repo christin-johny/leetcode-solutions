@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/christin-johny/leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/christin-johny/leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/christin-johny/leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/christin-johny/leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
