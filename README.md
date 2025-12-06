@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/christin-johny/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/christin-johny/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
