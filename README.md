@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/christin-johny/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
