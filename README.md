@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Counting
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/christin-johny/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
