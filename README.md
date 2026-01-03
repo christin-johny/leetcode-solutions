@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/christin-johny/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/christin-johny/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/christin-johny/leetcode-solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
