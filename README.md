@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/christin-johny/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/christin-johny/leetcode-solutions/tree/master/2507-number-of-common-factors) |
