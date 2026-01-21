@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0859-buddy-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/christin-johny/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
