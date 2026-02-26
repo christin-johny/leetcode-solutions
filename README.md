@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/christin-johny/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/christin-johny/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
