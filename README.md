@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/christin-johny/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/christin-johny/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/christin-johny/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-buddy-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/0859-buddy-strings) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/christin-johny/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/christin-johny/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/christin-johny/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/christin-johny/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
