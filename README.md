@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/christin-johny/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/christin-johny/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/christin-johny/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Linked List
