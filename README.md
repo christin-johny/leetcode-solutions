@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/christin-johny/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/christin-johny/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/christin-johny/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/christin-johny/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/christin-johny/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/christin-johny/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
