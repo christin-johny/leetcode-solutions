@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/christin-johny/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/christin-johny/leetcode-solutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/christin-johny/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/christin-johny/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/christin-johny/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/christin-johny/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/christin-johny/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/christin-johny/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/christin-johny/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/christin-johny/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
