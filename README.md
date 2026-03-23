@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/christin-johny/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/christin-johny/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Brainteaser
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/christin-johny/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/christin-johny/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
