@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/christin-johny/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/christin-johny/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/christin-johny/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/christin-johny/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/christin-johny/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/christin-johny/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/christin-johny/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/christin-johny/leetcode-solutions/tree/master/1086-divisor-game) |
