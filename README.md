@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/christin-johny/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/christin-johny/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/christin-johny/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/christin-johny/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/christin-johny/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/christin-johny/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/christin-johny/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/christin-johny/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/christin-johny/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/christin-johny/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0322-coin-change) |
