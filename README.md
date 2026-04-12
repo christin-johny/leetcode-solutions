@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/christin-johny/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/christin-johny/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/christin-johny/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/christin-johny/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/christin-johny/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
