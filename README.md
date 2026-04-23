@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/christin-johny/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/christin-johny/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2906-construct-product-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/christin-johny/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
