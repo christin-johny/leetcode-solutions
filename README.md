@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/christin-johny/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1470-shuffle-the-array](https://github.com/christin-johny/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/christin-johny/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
