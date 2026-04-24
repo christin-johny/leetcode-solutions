@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/christin-johny/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/christin-johny/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/christin-johny/leetcode-solutions/tree/master/0859-buddy-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/christin-johny/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/christin-johny/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/christin-johny/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/christin-johny/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/christin-johny/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/christin-johny/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/christin-johny/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/christin-johny/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/christin-johny/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/christin-johny/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/christin-johny/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/christin-johny/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/christin-johny/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/christin-johny/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/christin-johny/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/christin-johny/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/christin-johny/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
