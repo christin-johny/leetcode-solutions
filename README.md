@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/christin-johny/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/christin-johny/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/christin-johny/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1929-concatenation-of-array](https://github.com/christin-johny/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/christin-johny/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2615-sum-of-distances](https://github.com/christin-johny/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/christin-johny/leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/christin-johny/leetcode-solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/christin-johny/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/christin-johny/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/christin-johny/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/christin-johny/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/christin-johny/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
